@@ -5,3 +5,7 @@ Unity製のDesktopアプリを内輪とか限られた人たちに配布する�
 GoogleSpreadSheetに起動しておく仕組みをUnityとGoogleSpreadSheet で実現するプロジェクトサンプルです。
 
 Unity2018.2.14f1で動作確認済み
+
+HTTP.cs は
+Autoyaの物を改変して使っているので、こちらのライセンスに従ってください。
+https://github.com/sassembla/Autoya
