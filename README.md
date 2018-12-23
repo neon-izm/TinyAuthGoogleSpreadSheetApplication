@@ -16,6 +16,9 @@ https://qiita.com/kunichiko/items/7f64c7c80b44b15371a3
 この記事を参考にデプロイしてください。
 
 ## Google SpreadSheetのheader列を書き込む
+
+こんな感じに1行目に書いておくと、2行目以降は勝手に追記されていきます
+
 | date | deviceName | guid | appName | appVersion | optionString|
 | ---- | ---- |---- | ---- | ---- | ---- |
 | 2018/12/1/00:00 | neon-izm's macbook air | segfdfgdfgda(long guid) | TinyAuthGoogleSpreadSheetApplication| 0.1 | defaultValue|
