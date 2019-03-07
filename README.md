@@ -26,5 +26,5 @@ https://qiita.com/kunichiko/items/7f64c7c80b44b15371a3
 ## Unityの設定をする
 上で発行したアプリケーションURLを下記の部分のurlに当て嵌めてください
 
-https://github.com/neon-izm/TinyAuthGoogleSpreadSheetApplication/blob/master/Assets/TinyAuthGoogleSpreadSheetApplication/Scripts/StartUpAuthWithGoogleSpreadSheet.cs#L13
+https://github.com/neon-izm/TinyAuthGoogleSpreadSheetApplication/blob/master/Assets/TinyAuthGoogleSpreadSheetApplication/Scripts/StartUpAuthWithGoogleSpreadSheet.cs#L20
 
