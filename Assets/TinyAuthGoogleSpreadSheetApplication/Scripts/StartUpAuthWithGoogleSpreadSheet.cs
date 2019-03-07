@@ -1,4 +1,11 @@
-﻿using System;
+/**
+[TinyAuthGoogleSpreadSheetApplication]
+Copyright (c) 2019 @izm
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+*/
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
